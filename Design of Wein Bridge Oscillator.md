@@ -23,3 +23,4 @@ Practical frequency of Oscillation =
 
 
 Theoritical Frequency of Oscillation =
+
