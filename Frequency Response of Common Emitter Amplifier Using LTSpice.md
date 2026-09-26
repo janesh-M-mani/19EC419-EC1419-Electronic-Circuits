@@ -36,3 +36,4 @@
 **VOLTAGE GAIN =**
 
 **BANDWIDTH =**
+
