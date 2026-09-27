@@ -1,6 +1,8 @@
 # Electronic-Circuits-EC1419
 
 <img width="686" height="718" alt="image" src="https://github.com/user-attachments/assets/17c40c51-e446-40dc-ae5e-529c6488707e" />
+
+
 <img width="652" height="132" alt="image" src="https://github.com/user-attachments/assets/1bae20ca-6142-485d-a594-d015bb0c075f" />
 <img width="613" height="597" alt="image" src="https://github.com/user-attachments/assets/a8320c1d-4850-4b87-a333-ff4f92c202e0" />
 <img width="480" height="432" alt="image" src="https://github.com/user-attachments/assets/c7e9136a-efb3-41a5-bcc3-33e9946c73a6" />
